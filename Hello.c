@@ -6,5 +6,7 @@ Date:2020/01/14
 
 int main(void) {
 	printf("Beau Wattier Mechanical Engineering\n");
+	printf("Jordan Boesch\n");
+	printf("Major is Computer Science\n")
 	return 0;
 }
