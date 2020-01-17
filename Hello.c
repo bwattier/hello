@@ -10,5 +10,7 @@ int main(void) {
 	printf("Major is Computer Science\n")
 	printf("Reda Kambal\n");
 	printf("Major in Computer Science\n");
+	printf("Sasha Orieny\n");
+	printf("Major is Economics\n");
 	return 0;
 }
