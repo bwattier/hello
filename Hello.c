@@ -9,6 +9,6 @@ int main(void) {
 	printf("Jordan Boesch\n");
 	printf("Major is Computer Science\n")
 	printf("Reda Kambal\n");
-	printf("\nMajor in Computer Science");
+	printf("Major in Computer Science\n");
 	return 0;
 }
